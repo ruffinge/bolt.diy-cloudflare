@@ -1,3 +1,5 @@
+This is a fork for me to selfhost on cloudflare.
+
 # bolt.diy
 
 [![bolt.diy: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.diy)
